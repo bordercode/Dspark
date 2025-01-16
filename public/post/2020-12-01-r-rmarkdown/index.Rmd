@@ -1,7 +1,7 @@
 ---
-title: "Hello R Markdown"
+title: "Nuevos impuestos"
 author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
+date: 2025-01-12T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -10,28 +10,18 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# Nuevos impuestos: la estrategia de la administración federal entrante para hacer frente a un gasto publico basado en agresivos programas de trasferencias clientelares
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+La política fiscal del movimiento lidereado por el tata Andrés y el partido MORENA a través de su actual representante en la administración federal, tiene ya impactos en la competitividad de México con afectaciones importantes sobre la economía local y la población. 
 
-You can embed an R code chunk like this:
+Un incremento de la deuda con la adquisición en mercados internacionales de 8,500 millones de dólares, la colocación más grande de la historia reciente de crédito público  en el país. deja ver los primeros síntomas de la falta de liquidez de una economía que impulsa una agenda clientelar de transferencias no vinculadas a la productividad y dirigido a la captación de votantes en segmentos demográficamente estratégicos desde la perspectiva electoral.
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+La administración federal actual enfrenta un escenario restrictivo en términos de los ingresos requeridos para hacer frente a la agresiva estrategia de gasto público planteada en el marco de una economía en decadencia, cuyo crecimiento para 2025 se prevé en 1.2%  del PIB , el más bajo de América Latina  (CEPAL, 2024).
 
-# Including Plots
+Ante este escenario, la decisión de la administración federal actual ha sido una política de incremento en impuestos en detrimento de los contribuyentes nacionales, que adicionalmente refuerza la dependencia nacional de la economía estadounidense. 
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+Concretamente la medida fiscal puesta en marcha a partir del 1° de enero 2025 implica que se tendrá una tasa impositiva del 19 por ciento en la compra de mercancías provenientes de países como China, para transacciones que excedan 1 d[olar estadounidense, (SAT, 2024).
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+Esta medida deja exentas a las transacciones con Estados Unidos y Canadá, para montos menores a 50 USD, un bloque tarifario no seleccionado al azar, ya que es en este segmento en el que se ha tenido una dinámica incursión por parte de la población mexicana recientemente. 
+
+Se trata de una medida arancelaria discriminatoria directa sobre países con los que se tenía, hasta 2024, un dinámico intercambio comercial mediante canales electrónicos y 
