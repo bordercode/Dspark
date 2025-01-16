@@ -2,34 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4014/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:4014/fashion-beauty/</loc>
-  </url><url>
     <loc>//localhost:4014/nature/</loc>
   </url><url>
-    <loc>//localhost:4014/categories/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:4014/animals/cats/</loc>
-    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>//localhost:4014/</loc>
-    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:4014/categories/nature/</loc>
-    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:4014/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:4014/about/</loc>
+    <loc>//localhost:4014/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>//localhost:4014/categories/beauty/</loc>
+    <loc>//localhost:4014/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>//localhost:4014/categories/fashion/</loc>
+    <loc>//localhost:4014/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:4014/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:4014/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:4014/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>//localhost:4014/imprint/</loc>
+  </url><url>
+    <loc>//localhost:4014/categories/nature/</loc>
   </url>
 </urlset>
