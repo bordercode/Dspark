@@ -3,11 +3,11 @@ title: "Nuevos impuestos"
 author: "Frida Gomam"
 date: 2025-01-12T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["Comercio internacional", "Política fiscal", "Endeudamiento"]
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
+knitr::opts_chunk$set(collapsedata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAWElEQVR42mNgGPTAxsZmJsVqQApgmGw1yApwKcQiT7phRBuCzzCSDSHGMKINIeDNmWQlA2IigKJwIssQkHdINgxfmBBtGDEBS3KCxBc7pMQgMYE5c/AXPwAwSX4lV3pTWwAAAABJRU5ErkJggg== = TRUE)
 ```
 
 # Nuevos impuestos: la estrategia de la administración federal entrante para hacer frente a un gasto publico basado en agresivos programas de trasferencias clientelares
