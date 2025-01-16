@@ -1,5 +1,5 @@
 theme: hugo-now
-baseurl: http://example.com/
+baseurl: https://economiamexicana.netlify.app/
 languageCode: en-us
 title: Economía Mexicana
 PygmentsCodeFences: yes
