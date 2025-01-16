@@ -1,5 +1,7 @@
 library(blogdown)
 
-new_site(theme = "nicokaiser/hugo-theme-gallery")
+new_site(theme = "mikeblum/hugo-now")
+
+blogdown::serve_site()
 
 

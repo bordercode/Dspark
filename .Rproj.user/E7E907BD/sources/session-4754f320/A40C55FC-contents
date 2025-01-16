@@ -1,0 +1,25 @@
+theme: hugo-now
+baseurl: http://example.com/
+languageCode: en-us
+title: Economia Mexicana
+PygmentsCodeFences: yes
+PygmentsStyle: pygments
+module:
+  imports:
+    - GoogleAnalytics: UA-XXXXXX
+      path: github.com/mikeblum/hugo-now
+  replacements: github.com/mikeblum/hugo-now -> ../..
+taxonomies:
+  category: categories
+  tag: tags
+params:
+  author: Hugo Now
+  avatar: /images/hugo.png
+  description: Análisis independiente 
+  displayauthor: no
+  keywords:
+    - hugo-now
+    - hugo
+  paginate: 10
+  paginatePath: page
+  umamiAnalytics: XXXX-XXXX-XXXX

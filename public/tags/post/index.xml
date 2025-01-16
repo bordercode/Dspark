@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Economia Mexicana</title>
+    <link>http://localhost:6204/tags/post/</link>
+    <description>Recent content in Post on Economia Mexicana</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2017 19:54:29 -0500</lastBuildDate>
+    <atom:link href="http://localhost:6204/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Post</title>
+      <link>http://localhost:6204/post/sample/</link>
+      <pubDate>Tue, 04 Jul 2017 19:54:29 -0500</pubDate>
+      <guid>http://localhost:6204/post/sample/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

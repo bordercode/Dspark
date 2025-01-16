@@ -1,0 +1,62 @@
+baseURL: https://www.example.com/
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: yes
+disqusShortname: guangmean
+staticDir:
+  - static
+  - themes/Niello/static
+theme: Niello
+languages:
+  en:
+    LanguageName: "\U0001F1FA\U0001F1F8EN"
+    contentDir: content/en
+    languageCode: en-us
+    menus:
+      main:
+        - name: Home
+          pageRef: /
+          weight: 1
+        - name: Categories
+          pageRef: /categories
+          weight: 2
+        - name: Tags
+          pageRef: /tags
+          weight: 3
+    weight: 1
+  zh:
+    LanguageName: "\U0001F1E8\U0001F1F3CN"
+    contentDir: content/zh
+    languageCode: zh-cn
+    menus:
+      main:
+        - name: example首页
+          pageRef: /
+          weight: 1
+        - name: example文章分类
+          pageRef: /categories
+          weight: 2
+        - name: example标签
+          pageRef: /tags
+          weight: 3
+    weight: 2
+params:
+  bannershowcase:
+    categories: Example 1 - EN
+    limit: 2
+  email:
+    contact: jl@gmail.com
+  google:
+    ga4: '******'
+    google_ad_client: '******'
+  ignore:
+    categories:
+      - privacy
+      - terms
+      - archives
+      - cookie
+    copyright: '2025 by www.example.com All Rights Reserved.'
+    sharethis: '******'
+outputs:
+  home:
+    - HTML
+    - JSON
