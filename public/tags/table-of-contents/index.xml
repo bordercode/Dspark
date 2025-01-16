@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Economía Mexicana</title>
-    <link>http://localhost:6204/tags/table-of-contents/</link>
+    <link>http://localhost:3101/tags/table-of-contents/</link>
     <description>Recent content in Table of Contents on Economía Mexicana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jul 2017 23:02:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:6204/tags/table-of-contents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3101/tags/table-of-contents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Table Of Contents</title>
-      <link>http://localhost:6204/post/table-of-contents/</link>
+      <link>http://localhost:3101/post/table-of-contents/</link>
       <pubDate>Wed, 05 Jul 2017 23:02:42 -0500</pubDate>
-      <guid>http://localhost:6204/post/table-of-contents/</guid>
+      <guid>http://localhost:3101/post/table-of-contents/</guid>
       <description></description>
     </item>
   </channel>

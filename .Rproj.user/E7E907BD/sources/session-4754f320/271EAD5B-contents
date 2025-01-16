@@ -3,5 +3,5 @@ library(blogdown)
 new_site(theme = "mikeblum/hugo-now")
 
 blogdown::serve_site()
-
+blogdown::stop_server()
 

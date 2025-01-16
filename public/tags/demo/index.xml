@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Economía Mexicana</title>
-    <link>http://localhost:6204/tags/demo/</link>
+    <link>http://localhost:3101/tags/demo/</link>
     <description>Recent content in Demo on Economía Mexicana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2017 02:00:21 -0500</lastBuildDate>
-    <atom:link href="http://localhost:6204/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3101/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>:star: Emoji Support :exclamation:</title>
-      <link>http://localhost:6204/post/emoji-support/</link>
+      <link>http://localhost:3101/post/emoji-support/</link>
       <pubDate>Thu, 06 Jul 2017 02:00:21 -0500</pubDate>
-      <guid>http://localhost:6204/post/emoji-support/</guid>
+      <guid>http://localhost:3101/post/emoji-support/</guid>
       <description>&lt;p&gt;:sushi: :beer:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Table Of Contents</title>
-      <link>http://localhost:6204/post/table-of-contents/</link>
+      <link>http://localhost:3101/post/table-of-contents/</link>
       <pubDate>Wed, 05 Jul 2017 23:02:42 -0500</pubDate>
-      <guid>http://localhost:6204/post/table-of-contents/</guid>
+      <guid>http://localhost:3101/post/table-of-contents/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript Support</title>
-      <link>http://localhost:6204/post/javascript-support/</link>
+      <link>http://localhost:3101/post/javascript-support/</link>
       <pubDate>Tue, 04 Jul 2017 20:55:50 -0500</pubDate>
-      <guid>http://localhost:6204/post/javascript-support/</guid>
+      <guid>http://localhost:3101/post/javascript-support/</guid>
       <description></description>
     </item>
   </channel>

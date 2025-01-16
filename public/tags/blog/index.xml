@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Economía Mexicana</title>
-    <link>http://localhost:6204/tags/blog/</link>
+    <link>http://localhost:3101/tags/blog/</link>
     <description>Recent content in Blog on Economía Mexicana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jul 2017 19:54:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:6204/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3101/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample Post</title>
-      <link>http://localhost:6204/post/sample/</link>
+      <link>http://localhost:3101/post/sample/</link>
       <pubDate>Tue, 04 Jul 2017 19:54:29 -0500</pubDate>
-      <guid>http://localhost:6204/post/sample/</guid>
+      <guid>http://localhost:3101/post/sample/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>

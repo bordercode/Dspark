@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Economía Mexicana</title>
-    <link>http://localhost:6204/categories/</link>
+    <link>http://localhost:3101/categories/</link>
     <description>Recent content in Categories on Economía Mexicana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:6204/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3101/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>http://localhost:6204/categories/r/</link>
+      <link>http://localhost:3101/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:6204/categories/r/</guid>
+      <guid>http://localhost:3101/categories/r/</guid>
       <description></description>
     </item>
   </channel>

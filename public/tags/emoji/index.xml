@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoji on Economía Mexicana</title>
-    <link>http://localhost:6204/tags/emoji/</link>
+    <link>http://localhost:3101/tags/emoji/</link>
     <description>Recent content in Emoji on Economía Mexicana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2017 02:00:21 -0500</lastBuildDate>
-    <atom:link href="http://localhost:6204/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3101/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>:star: Emoji Support :exclamation:</title>
-      <link>http://localhost:6204/post/emoji-support/</link>
+      <link>http://localhost:3101/post/emoji-support/</link>
       <pubDate>Thu, 06 Jul 2017 02:00:21 -0500</pubDate>
-      <guid>http://localhost:6204/post/emoji-support/</guid>
+      <guid>http://localhost:3101/post/emoji-support/</guid>
       <description>&lt;p&gt;:sushi: :beer:&lt;/p&gt;</description>
     </item>
   </channel>
