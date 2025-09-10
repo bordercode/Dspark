@@ -18,9 +18,11 @@ toc: true
 
 # Más Aranceles después de la visita de Marco Rubio, Secretario de estado de EE. UU.
 
-A lo que vino Rubio. A días de la visita del secretario de estado estadounidense a México, su reunión con Sheinbaum ya tiene algunos resultados.
+A lo que vino Rubio. A días de la visita del secretario de estado estadounidense a México, su reunión con Sheinbaum y su gabinete ya tiene algunos resultados.
 
-Uno de los impactos de esta medida es que México se convierte en un país  destinado a usar vehículos chatarra en lugar de una nación que beneficia a sus ciudadanos con acceso libre al mercado donde el avance de la tecnología impulsada por China es hoy un contrapeso incomodo para la maquinaria capitista estadounidense, cuya ineficiencia  Las marcas como BYD, son hoy en día una referencia de calidad e implementación de tecnología 
+Citar textual la medida arancelaria de Ebrar 
+
+Uno de los impactos de esta medida es que México se convierte en un paísdestinado a usar vehículos chatarra en lugar de una nación que beneficia a sus ciudadanos con acceso libre al mercado donde el avance de la tecnología impulsada por China es hoy un contrapeso incomodo para la maquinaria capitista estadounidense, cuya ineficiencia  Las marcas como BYD, son hoy en día una referencia de calidad e implementación de tecnología 
 eficiente lo que resulta en un menor impacto ambiental.
 
 Morena esta acatando los caprichos de Trump a costa del binestar de la población 
