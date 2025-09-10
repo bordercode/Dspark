@@ -2,11 +2,11 @@
 banner:
 - alt: hugo logo
   src: /images/hugo-logo.svg
-date: "2017-07-04T19:54:29-05:00"
+date: "2025-09-04T19:54:29-05:00"
 tags:
 - blog
 - post
-title: Sample Post
+title: Donde quedó la defensa de la soberanía
 toc: true
 ---
 
