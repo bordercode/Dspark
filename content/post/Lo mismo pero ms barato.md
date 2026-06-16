@@ -6,8 +6,9 @@ title: 'La mera neta... o La marioneta?'
 bibliography: references.bib
 link-citations: true
 csl: https://www.zotero.org/styles/apa
-
+categories: ["Política Mexicana", "Historia"]
 ---
+
 
 
 
