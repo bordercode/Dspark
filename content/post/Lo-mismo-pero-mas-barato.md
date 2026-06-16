@@ -205,7 +205,7 @@ formas institucionales.
 
 *Chat OGT_p*
 
-## Referencias
 
-::: {#refs}
-:::
+# Referencias
+
+<div id="refs"></div>
