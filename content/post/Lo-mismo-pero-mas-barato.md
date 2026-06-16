@@ -1,5 +1,5 @@
 ---
-title: "¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México"
+title: "La mera neta... o la marioneta?"
 author: "Chat OGT-p"
 date: 2026-06-16
 draft: false
