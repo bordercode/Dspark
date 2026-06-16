@@ -54,7 +54,7 @@ Más que una nueva revolución armada, el desafío contemporáneo parece ser for
 
 En este sentido, el paralelismo entre Díaz-González y López Obrador-Sheinbaum puede ser útil como herramienta de reflexión histórica. Sin embargo, también recuerda que la historia rara vez se repite de manera exacta: las semejanzas existen, pero las diferencias institucionales, sociales y económicas entre el México de 1880 y el del siglo XXI son profundas. La cuestión central no es si vivimos una repetición del pasado, sino si las instituciones actuales son capaces de evitar los errores que, en otros momentos, condujeron a crisis políticas de gran magnitud.
 
-La pregunta real no es si estamos repitiendo el Porfiriato, sino si ciertos mecanismos de concentración del poder reaparecen bajo nuevas formas institucionales.
+La pregunta real no es si estamos repitiendo el Porfiriato, pero si ciertos mecanismos de concentración del poder reaparecen bajo nuevas formas institucionales.
 
 ---
 
