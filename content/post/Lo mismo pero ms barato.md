@@ -5,7 +5,7 @@ tags:
 title: 'La mera neta... o La marioneta?'
 bibliography: references.bib
 link-citations: true
-csl: https://www.zotero.org/styles/apa
+csl: apa.csl
 categories: ["Política Mexicana", "Historia"]
 ---
 
@@ -64,3 +64,5 @@ La pregunta real no es si estamos repitiendo el Porfiriato, sino si ciertos meca
 
 ::: {#refs}
 :::
+
+
