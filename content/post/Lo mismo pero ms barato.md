@@ -1,7 +1,7 @@
 ---
 date: "2026-06-16T02:00:21-05:00"
 tags:
-- ':point_left:' ["Sucesión Presidencial", "Porfirio Díaz", "Manuel González", "AMLO", "Claudia Sheinbaum"]
+- ':point_left:' 
 title: 'La mera neta... o La marioneta?'
 bibliography: references.bib
 link-citations: true
@@ -9,8 +9,7 @@ csl: apa.csl
 categories: ["Política Mexicana", "Historia"]
 ---
 
-askk
-
+blogdown::build_site()
 
 # ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México.
 
