@@ -19,9 +19,9 @@ toc: true
 
 A lo que vino Rubio. A días de la visita del secretario de estado estadounidense a México, su reunión con Sheinbaum y su gabinete ya tiene algunos resultados.
 
-Citar textual la medida arancelaria de Ebrar 
+Citar textual la medida arancelaria de Ebrard. 
 
-Uno de los impactos de esta medida es que México se convierte en un paísdestinado a usar vehículos chatarra en lugar de una nación que beneficia a sus ciudadanos con acceso libre al mercado donde el avance de la tecnología impulsada por China es hoy un contrapeso incomodo para la maquinaria capitista estadounidense, cuya ineficiencia  Las marcas como BYD, son hoy en día una referencia de calidad e implementación de tecnología 
+Uno de los impactos de esta medida es que México se convierte en un país destinado a usar vehículos chatarra en lugar de una nación que beneficia a sus ciudadanos con acceso libre al mercado donde el avance de la tecnología impulsada por China es hoy un contrapeso incomodo para la maquinaria capitista estadounidense, cuya ineficiencia  Las marcas como BYD, son hoy en día una referencia de calidad e implementación de tecnología 
 eficiente lo que resulta en un menor impacto ambiental.
 
 Morena esta acatando los caprichos de Trump a costa del binestar de la población 
@@ -45,24 +45,3 @@ orquetando con tal de no hacer enojar Mr. Trump. ¿Donde está el patriotismo? d
 la defensa de la soberanía? donde esta la verguenza... 
 
 
-
-
-## Heading 2
-
-Nullam quis dolor urna. Sed elementum placerat condimentum. Quisque eget quam dui. Maecenas suscipit elit non pharetra hendrerit. Maecenas felis libero, iaculis vitae enim id, pretium ullamcorper mi. Sed tempor consequat blandit. Fusce nec nisl nec urna iaculis varius.
-
-```go
-echo 'this is a code same'
-```
-
-```go
-package main
-
-func main() {
-
-}
-```
-
-### Heading 3
-
-In sollicitudin efficitur porta. Ut lorem nisi, maximus id lorem cursus, auctor sodales risus. Vestibulum fermentum placerat nunc a pulvinar. Nam feugiat maximus nisi, quis consectetur lorem tincidunt quis. Suspendisse potenti. Curabitur ut euismod arcu. Nullam non purus id tellus pellentesque accumsan id nec massa. Mauris tempus molestie dolor a congue. Donec euismod erat ut tortor molestie, id pharetra risus ultrices. Mauris dapibus enim nulla, ut sodales enim cursus vitae. Ut in metus in lorem aliquam ultricies. Etiam tristique erat at posuere cursus. Mauris quam enim, dapibus vel orci sed, efficitur venenatis nisl.
