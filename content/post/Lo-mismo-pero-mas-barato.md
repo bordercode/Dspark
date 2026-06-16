@@ -16,7 +16,9 @@ output:
     toc_depth: 2
 ---
 
-This is a citation [@lopezobrador2026apoyo].
+
+
+
 
 # ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México.
 
@@ -205,4 +207,5 @@ formas institucionales.
 
 ## Referencias
 
-
+::: {#refs}
+:::
