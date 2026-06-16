@@ -1,16 +1,13 @@
 ---
 date: "2017-07-06T02:00:21-05:00"
 tags:
-- demo
-- emoji
-- feature
 - ':point_left:'
-title: 'La marioneta'
+title: 'La mera Neta o La marioneta'
 ---
 
 # ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México?
 
-La historia política mexicana parece moverse entre retos, avances y regresiones. La transición presidencial de 1880, cuando Porfirio Díaz cedió formalmente la presidencia a Manuel González para regresar posteriormente al poder, ha sido interpretada por muchos historiadores como una estrategia para respetar las formas constitucionales sin perder el control político efectivo (Cosío Villegas, 1970; Ponce Alcocer, 2009; Vieyra Sánchez et al., 2022; Villegas Revueltas, 2003). Desde esta perspectiva, se encuentran algunos paralelismos significativos con la transición reciente entre Andrés Manuel López Obrador y Claudia Sheinbaum.
+La historia política mexicana parece moverse entre retos, avances y regresiones. La transición presidencial de 1880, cuando Porfirio Díaz cedió formalmente la presidencia a Manuel González para regresar posteriormente al poder, ha sido interpretada por muchos historiadores como una estrategia para respetar las formas constitucionales sin perder el control político efectivo (Cosío Villegas, 1970; Ponce Alcocer, 2009; Vieyra Sánchez et al., 2022; Villegas Revueltas, 2003). Desde esta perspectiva, se encuentran algunos paralelismos significativos con la transición reciente entre Andrés Manuel López Obrador y Claudia Sheinbaum.  
 
 En ambos casos, el líder saliente conservó una enorme influencia política al concluir su mandato. Porfirio Díaz eligió a uno de sus colaboradores más cercanos para ocupar la presidencia mientras mantenía intacta su red de poder. De manera similar, López Obrador impulsó la candidatura de Sheinbaum como sucesora dentro de un movimiento político altamente centralizado en torno a su liderazgo.
 
