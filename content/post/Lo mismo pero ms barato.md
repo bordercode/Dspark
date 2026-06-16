@@ -1,5 +1,5 @@
 ---
-date: "2017-07-06T02:00:21-05:00"
+date: "2026-06-16T02:00:21-05:00"
 tags:
 - ':point_left:'
 title: 'La mera neta... o La marioneta?'
