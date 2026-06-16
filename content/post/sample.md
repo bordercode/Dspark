@@ -14,7 +14,6 @@ toc: true
 <!--this tag makes only images show on the main page-->
 <!--more-->
 
-# Heading 1
 
 # Más Aranceles después de la visita de Marco Rubio, Secretario de estado de EE. UU.
 
