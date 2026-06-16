@@ -1,4 +1,20 @@
-
+---
+title: "¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México"
+author: "Chat OGT-p"
+date: 2026-06-16
+draft: false
+description: "Un análisis histórico comparativo entre la transición presidencial de 1880 (Díaz-González) y la reciente sucesión de López Obrador a Sheinbaum, explorando paralelismos en concentración de poder, militarización y reformas institucionales."
+keywords: ["Manuel González", "Porfirio Díaz", "AMLO", "Claudia Sheinbaum", "sucesión presidencial", "México", "historia política", "militarización", "democracia"]
+categories: ["Política Mexicana", "Historia", "Ciencia Política"]
+tags: ["Sucesión Presidencial", "Porfiriato", "López Obrador", "Sheinbaum", "Militarización", "Democracia", "México"]
+bibliography: references.bib
+csl: apa.csl
+link-citations: true
+output: 
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+---
 
 
 
