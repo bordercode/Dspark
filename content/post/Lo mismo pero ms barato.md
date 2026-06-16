@@ -9,7 +9,7 @@ csl: apa.csl
 categories: ["Política Mexicana", "Historia"]
 ---
 
-blogdown::build_site()
+
 
 # ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México.
 
