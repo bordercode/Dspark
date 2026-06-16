@@ -2,7 +2,7 @@
 date: "2017-07-06T02:00:21-05:00"
 tags:
 - ':point_left:'
-title: 'La mera Neta o La marioneta'
+title: 'La mera neta... o La marioneta?'
 ---
 
 # ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México?
