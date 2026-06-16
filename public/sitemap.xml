@@ -2,88 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:3101/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/tags/blog/</loc>
+    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/post/aranceles/</loc>
+    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/</loc>
+    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/tags/post/</loc>
+    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/post/</loc>
+    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/tags/</loc>
+    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/categories/</loc>
+    <lastmod>2025-01-12T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/tags/comercio-internacional/</loc>
+    <lastmod>2025-01-12T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/tags/endeudamiento/</loc>
+    <lastmod>2025-01-12T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/point_left/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2025-01-12T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/post/emoji-support/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/tags/pol%C3%ADtica-fiscal/</loc>
+    <lastmod>2025-01-12T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/demo/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/categories/r/</loc>
+    <lastmod>2025-01-12T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/emoji/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3101/tags/feature/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3101/tags/table-of-contents/</loc>
+    <loc>https://economiamexicana.netlify.app/tags/demo/</loc>
     <lastmod>2017-07-05T23:02:42-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/post/table-of-contents/</loc>
+    <loc>https://economiamexicana.netlify.app/tags/table-of-contents/</loc>
     <lastmod>2017-07-05T23:02:42-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/bootstrap/</loc>
+    <loc>https://economiamexicana.netlify.app/post/table-of-contents/</loc>
+    <lastmod>2017-07-05T23:02:42-05:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/bootstrap/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/javascript/</loc>
+    <loc>https://economiamexicana.netlify.app/tags/feature/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/post/javascript-support/</loc>
+    <loc>https://economiamexicana.netlify.app/tags/javascript/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/noscript/</loc>
+    <loc>https://economiamexicana.netlify.app/post/javascript-support/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/blog/</loc>
-    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
+    <loc>https://economiamexicana.netlify.app/tags/noscript/</loc>
+    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/post/</loc>
-    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3101/post/sample/</loc>
-    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3101/tags/hugo/</loc>
+    <loc>https://economiamexicana.netlify.app/tags/hugo/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/project/hugo-now/</loc>
+    <loc>https://economiamexicana.netlify.app/project/hugo-now/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/hugo-blog-theme/</loc>
+    <loc>https://economiamexicana.netlify.app/tags/hugo-blog-theme/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/tags/hugo-theme/</loc>
+    <loc>https://economiamexicana.netlify.app/tags/hugo-theme/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:3101/project/</loc>
+    <loc>https://economiamexicana.netlify.app/project/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url>
 </urlset>
