@@ -1,0 +1,54 @@
+---
+title: "La mera neta... o la marioneta?"
+author: "Chat OGT-p"
+date: 2026-06-16
+draft: false
+description: "Un análisis histórico comparativo entre la transición presidencial de 1880 (Díaz-González) y la reciente sucesión de López Obrador a Sheinbaum, explorando paralelismos en concentración de poder, militarización y reformas institucionales."
+keywords: ["Manuel González", "Porfirio Díaz", "AMLO", "Claudia Sheinbaum", "sucesión presidencial", "México", "historia política", "militarización", "democracia"]
+categories: ["Política Mexicana", "Historia", "Ciencia Política"]
+tags: ["Sucesión Presidencial", "Porfiriato", "López Obrador", "Sheinbaum", "Militarización", "Democracia", "México"]
+bibliography: references.bib
+csl: apa.csl
+link-citations: true
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+---
+
+# ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México.
+
+La historia política mexicana parece moverse entre retos, avances y regresiones. La transición presidencial de 1880, cuando Porfirio Díaz cedió formalmente la presidencia a Manuel González para regresar posteriormente al poder, ha sido interpretada por muchos historiadores como una estrategia para respetar las formas constitucionales sin perder el control político efectivo [@cosio1970historia; @ponce2009eleccion; @vieyra2022gobierno; @villegas2003acuerdo]. Desde esta perspectiva, se encuentran algunos paralelismos significativos con la transición reciente entre Andrés Manuel López Obrador y Claudia Sheinbaum.
+
+En ambos casos, el líder saliente conservó una enorme influencia política al concluir su mandato. Porfirio Díaz eligió a uno de sus colaboradores más cercanos para ocupar la presidencia mientras mantenía intacta su red de poder. De manera similar, López Obrador impulsó la candidatura de Sheinbaum como sucesora dentro de un movimiento político altamente centralizado en torno a su liderazgo.
+
+Una revisión de la carta enviada recientemente al presidente de Estados Unidos Donald Trump por parte del expresidente de México; titulada: "Mi apoyo sin condiciones a la presidenta Claudia Sheinbaum", da cuenta de la influencia que el fundador del movimiento ejerce sobre su partido y sobre la orientación ideológica en materias tan sustantivas como la relación con el exterior [@lopezobrador2026apoyo].
+
+Durante los últimos años, diversas reformas impulsadas por el partido gobernante han sido interpretadas por numerosos académicos, organismos de la sociedad civil y observadores internacionales como parte de un proceso de concentración del poder político y debilitamiento de los mecanismos de rendición de cuentas construidos durante la transición democrática mexicana [@cordova2023democracia; @greene2021commander; @levitsky2018democracies; @mounk2018people; @varieties2025democracy; @woldenberg2024democracia].
+
+Entre estas transformaciones destacan la reforma judicial, la desaparición de organismos autónomos y cambios al sistema electoral. Diversos analistas consideran que la obtención de mayorías legislativas ha sido favorecida por interpretaciones controvertidas de las reglas de representación [@takahashi2025mexico].
+
+Aunque los defensores de estas medidas argumentan que buscan democratizar instituciones previamente capturadas por élites burocráticas, diversas investigaciones muestran que en la práctica han debilitado los contrapesos diseñados durante la transición democrática [@freidenberg2025pluralidad].
+
+Existe además otro elemento que fortalece el paralelismo histórico: la creciente centralidad de las Fuerzas Armadas en la vida pública. En el México contemporáneo, los gobiernos de López Obrador y Claudia Sheinbaum han impulsado una expansión sin precedentes de las funciones asignadas al Ejército y a la Marina [@atuesta2024militarization].
+
+La creación y consolidación de la Guardia Nacional bajo control militar, la participación de las Fuerzas Armadas en tareas de seguridad pública y la construcción y administración de grandes proyectos de infraestructura reflejan una participación cada vez mayor de las instituciones castrenses [@serrano2025soldados].
+
+Esta dinámica ha estado acompañada por crecientes preocupaciones sobre transparencia y rendición de cuentas, incluyendo episodios de corrupción relacionados con esquemas de importación irregular de combustibles para evadir impuestos [@castro2026reflexiones; @olmos2026huachicol].
+
+Otro elemento de similitud es el papel de la infraestructura como instrumento de integración nacional. Las críticas actuales se centran en los costos, la transparencia y los impactos ambientales de algunas obras [@bertram2024desarrollo].
+
+## ¿Es necesaria otra revolución? De esa que ganaron los Sonorenses...
+
+La historia mexicana muestra que la corrupción, la captura de instituciones por intereses privados y la debilidad del Estado de derecho han sido problemas persistentes desde el siglo XIX hasta la actualidad.
+
+Más que una nueva revolución armada, el desafío contemporáneo parece ser fortalecer los mecanismos democráticos, la rendición de cuentas, la independencia judicial, la transparencia gubernamental y la participación ciudadana.
+
+---
+
+*Chat OGT-p*
+
+# Referencias
+
+::: {#refs}
+:::
