@@ -43,12 +43,5 @@
       <guid>https://economiamexicana.netlify.app/post/javascript-support/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Citation Test</title>
-      <link>https://economiamexicana.netlify.app/post/test-citations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://economiamexicana.netlify.app/post/test-citations/</guid>
-      <description>&lt;p&gt;This is a citation (López-Obrador, 2026).&lt;/p&gt;&#xA;&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;&#xA;&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body hanging-indent&#34; data-entry-spacing=&#34;0&#34; data-line-spacing=&#34;2&#34;&gt;&#xD;&#xA;&lt;div id=&#34;ref-lopezobrador2026apoyo&#34; class=&#34;csl-entry&#34;&gt;&#xD;&#xA;&lt;p&gt;López-Obrador, A. (2026). &lt;em&gt;MI APOYO SIN CONDICIONES a LA PRESIDENTA CLAUDIA SHEINBAUM PARDO y UNA RESPETUOSA REFLEXIÓn SOBRE EL PRESIDENTE DONALD TRUMP&lt;/em&gt;. &lt;a href=&#34;https://www.proceso.com.mx/nacional/2026/6/4/que-regrese-el-otro-trump-esta-es-la-carta-integra-con-la-que-reaparecio-amlo-373200.html&#34;&gt;https://www.proceso.com.mx/nacional/2026/6/4/que-regrese-el-otro-trump-esta-es-la-carta-integra-con-la-que-reaparecio-amlo-373200.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
-    </item>
   </channel>
 </rss>
