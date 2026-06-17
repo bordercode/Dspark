@@ -16,9 +16,6 @@ output:
     toc_depth: 2
 ---
 
-```{r}
-setwd("C:/Users/pc/Desktop/Desktop/web/Dspark")
-```
 
 
 # ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México.
