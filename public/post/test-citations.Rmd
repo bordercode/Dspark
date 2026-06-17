@@ -1,0 +1,18 @@
+---
+title: "Citation Test"
+bibliography: references.bib
+csl: apa.csl
+output: html_document
+---
+
+```{r}
+rmarkdown::render("content/post/test-citations.Rmd")
+```
+
+
+This is a citation [@lopezobrador2026apoyo].
+
+# References
+
+::: {#refs}
+:::

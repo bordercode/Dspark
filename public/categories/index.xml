@@ -6,8 +6,29 @@
     <description>Recent content in Categories on Economía Mexicana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2025 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://economiamexicana.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciencia Política</title>
+      <link>https://economiamexicana.netlify.app/categories/ciencia-pol%C3%ADtica/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://economiamexicana.netlify.app/categories/ciencia-pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia</title>
+      <link>https://economiamexicana.netlify.app/categories/historia/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://economiamexicana.netlify.app/categories/historia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Política Mexicana</title>
+      <link>https://economiamexicana.netlify.app/categories/pol%C3%ADtica-mexicana/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://economiamexicana.netlify.app/categories/pol%C3%ADtica-mexicana/</guid>
+      <description></description>
+    </item>
     <item>
       <title>R</title>
       <link>https://economiamexicana.netlify.app/categories/r/</link>

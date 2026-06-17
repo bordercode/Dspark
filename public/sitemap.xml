@@ -2,26 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://economiamexicana.netlify.app/categories/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/categories/ciencia-pol%C3%ADtica/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/democracia/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/categories/historia/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/post/la_mera_neta_corregido/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/l%C3%B3pez-obrador/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/m%C3%A9xico/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/militarizaci%C3%B3n/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/categories/pol%C3%ADtica-mexicana/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/porfiriato/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/post/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/sheinbaum/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/sucesi%C3%B3n-presidencial/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/tags/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://economiamexicana.netlify.app/tags/blog/</loc>
     <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
     <loc>https://economiamexicana.netlify.app/post/aranceles/</loc>
     <lastmod>2025-09-04T19:54:29-05:00</lastmod>
   </url><url>
-    <loc>https://economiamexicana.netlify.app/</loc>
-    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
-  </url><url>
     <loc>https://economiamexicana.netlify.app/tags/post/</loc>
     <lastmod>2025-09-04T19:54:29-05:00</lastmod>
-  </url><url>
-    <loc>https://economiamexicana.netlify.app/post/</loc>
-    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
-  </url><url>
-    <loc>https://economiamexicana.netlify.app/tags/</loc>
-    <lastmod>2025-09-04T19:54:29-05:00</lastmod>
-  </url><url>
-    <loc>https://economiamexicana.netlify.app/categories/</loc>
-    <lastmod>2025-01-12T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://economiamexicana.netlify.app/tags/comercio-internacional/</loc>
     <lastmod>2025-01-12T21:13:14-05:00</lastmod>
@@ -76,5 +109,7 @@
   </url><url>
     <loc>https://economiamexicana.netlify.app/project/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+  </url><url>
+    <loc>https://economiamexicana.netlify.app/post/test-citations/</loc>
   </url>
 </urlset>

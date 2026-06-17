@@ -6,8 +6,15 @@
     <description>Recent content on Economía Mexicana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Sep 2025 19:54:29 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://economiamexicana.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La mera neta... o la marioneta?</title>
+      <link>https://economiamexicana.netlify.app/post/la_mera_neta_corregido/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://economiamexicana.netlify.app/post/la_mera_neta_corregido/</guid>
+      <description>&lt;h1 id=&#34;un-nuevo-manuel-gonzález-reflexiones-sobre-la-sucesión-presidencial-en-méxico&#34;&gt;¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México.&lt;/h1&gt;&#xA;&lt;p&gt;La historia política mexicana parece moverse entre retos, avances y regresiones. La transición presidencial de 1880, cuando Porfirio Díaz cedió formalmente la presidencia a Manuel González para regresar posteriormente al poder, ha sido interpretada por muchos historiadores como una estrategia para respetar las formas constitucionales sin perder el control político efectivo (&lt;a href=&#34;#ref-cosio1970historia&#34;&gt;Cosío Villegas, 1970&lt;/a&gt;; &lt;a href=&#34;#ref-ponce2009eleccion&#34;&gt;Ponce Alcocer, 2009&lt;/a&gt;; &lt;a href=&#34;#ref-vieyra2022gobierno&#34;&gt;Vieyra Sánchez et al., 2022&lt;/a&gt;; &lt;a href=&#34;#ref-villegas2003acuerdo&#34;&gt;Villegas Revueltas, 2003&lt;/a&gt;). Desde esta perspectiva, se encuentran algunos paralelismos significativos con la transición reciente entre Andrés Manuel López Obrador y Claudia Sheinbaum.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Donde quedó la defensa de la soberanía</title>
       <link>https://economiamexicana.netlify.app/post/aranceles/</link>
@@ -42,6 +49,13 @@
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       <guid>https://economiamexicana.netlify.app/project/hugo-now/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Citation Test</title>
+      <link>https://economiamexicana.netlify.app/post/test-citations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://economiamexicana.netlify.app/post/test-citations/</guid>
+      <description>&lt;p&gt;This is a citation (López-Obrador, 2026).&lt;/p&gt;&#xA;&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;López-Obrador, A. (2026). &lt;em&gt;MI APOYO SIN CONDICIONES a LA PRESIDENTA CLAUDIA SHEINBAUM PARDO y UNA RESPETUOSA REFLEXIÓn SOBRE EL PRESIDENTE DONALD TRUMP&lt;/em&gt;. &lt;a href=&#34;https://www.proceso.com.mx/nacional/2026/6/4/que-regrese-el-otro-trump-esta-es-la-carta-integra-con-la-que-reaparecio-amlo-373200.html&#34;&gt;https://www.proceso.com.mx/nacional/2026/6/4/que-regrese-el-otro-trump-esta-es-la-carta-integra-con-la-que-reaparecio-amlo-373200.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>
