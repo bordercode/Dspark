@@ -23,3 +23,8 @@ params:
   paginate: 10
   paginatePath: page
   umamiAnalytics: XXXX-XXXX-XXXX
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

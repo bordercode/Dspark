@@ -16,6 +16,10 @@ output:
     toc_depth: 2
 ---
 
+``` r
+setwd("C:/Users/pc/Desktop/Desktop/web/Dspark")
+```
+
 # ¿Un nuevo Manuel González? Reflexiones sobre la sucesión presidencial en México.
 
 La historia política mexicana parece moverse entre retos, avances y regresiones. La transición presidencial de 1880, cuando Porfirio Díaz cedió formalmente la presidencia a Manuel González para regresar posteriormente al poder, ha sido interpretada por muchos historiadores como una estrategia para respetar las formas constitucionales sin perder el control político efectivo ([Cosío Villegas, 1970](#ref-cosio1970historia); [Ponce Alcocer, 2009](#ref-ponce2009eleccion); [Vieyra Sánchez et al., 2022](#ref-vieyra2022gobierno); [Villegas Revueltas, 2003](#ref-villegas2003acuerdo)). Desde esta perspectiva, se encuentran algunos paralelismos significativos con la transición reciente entre Andrés Manuel López Obrador y Claudia Sheinbaum.
