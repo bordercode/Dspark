@@ -1,7 +1,7 @@
 ---
 banner:
 - alt: hugo logo
-  src: /images/tradeUSMX.svg
+  src: /images/tradeUSMX.png
 date: "2025-09-04T19:54:29-05:00"
 tags:
 - blog
