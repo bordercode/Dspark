@@ -1,5 +1,7 @@
 ---
-banner: "/images/tradeUSMX.png"
+banner:
+  - src: /images/tradeUSMX.png
+    alt: Trade US Mexico
 date: "2025-09-04T19:54:29-05:00"
 tags:
 - blog
