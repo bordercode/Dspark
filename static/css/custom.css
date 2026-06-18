@@ -1,0 +1,14 @@
+.banner-img {
+  width: 100%;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block;
+  max-height: 500px;
+}
+
+.well.post-banner {
+  padding: 0 !important;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
